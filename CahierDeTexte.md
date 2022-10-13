@@ -1,6 +1,26 @@
 Cahier de texte B1 Introduction Programmation - M. COSNEAU
 ===
 
+## Jeudi 13 octobre
+
+* Exercice de palindrome amélioré
+* Fonction de nettoyage de chaines de caractère
+
+## Mercredi 12 octobre 2022
+
+* Manipulation  des chaines de caractère
+* Exercice de palindrome
+
+
+## Jeudi 6 octobre 2022
+
+* Tableaux PHP
+* Chaines de caractères
+
+## Mercredi 5 octobre 2022
+
+* Tableaux PHP
+
 ## Jeudi 29 septembre 2022
 
 * Journée d'intégration
