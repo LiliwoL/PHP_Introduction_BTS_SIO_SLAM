@@ -15,7 +15,17 @@ for ( $i=$indiceFin; $i>=0; $i--)
 
 
 // *************************************************************
-// Demander une liste de nombres et vous en affichez le total
+
+// Demander une liste de 5 nombres que vous stockerez dans un tableau
+// Affichez ensuite le total
+
+
+// Demander une liste de nombres, que vous stockerez dans un tableau
+// la saisie s'arrête quand l'utilisateur tape STOP,
+// La saisie ne peut pas s'arrêter si il n'y a pas au moins 4 nombres
+// Affichez ensuite les nombres
+
+
 
 // Demander la saisie d'une chaine et n'en afficher qu'un caractère sur 2
 

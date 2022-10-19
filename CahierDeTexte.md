@@ -1,6 +1,10 @@
 Cahier de texte B1 Introduction Programmation - M. COSNEAU
 ===
 
+## Jeudi 20 octobre
+
+* Révisions et exercices de récapitulation
+
 ## Jeudi 13 octobre
 
 * Exercice de palindrome amélioré
