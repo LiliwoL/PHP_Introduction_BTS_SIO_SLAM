@@ -1,6 +1,13 @@
 Cahier de texte B1 Introduction Programmation - M. COSNEAU
 ===
 
+## Jeudi 10 novembre 2022
+
+* Révisions sur les boucles et les chaines
+    * 
+
+***
+
 ## Jeudi 20 octobre
 
 * Révisions et exercices de récapitulation
