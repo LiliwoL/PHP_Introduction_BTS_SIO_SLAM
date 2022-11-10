@@ -54,3 +54,18 @@ for ($i = 0; $i <=3 ; $i++ )
 
 // 3. Afichage
 echo "Adresse IP: " . $adresse;
+
+// BONUS: Afficher la classe
+
+// Je regarde le premier digit
+if ( $tab[0] <= 127 ){
+    echo "\nClasse A";
+}else if ($tab[0] <= 192){
+    echo "\nClasse B";
+}else if ($tab[0] <= 223){
+    echo "\nClasse C";
+}else if ($tab[0] <= 245){
+    echo "\nClasse D";
+}else {
+    echo "\nClasse E";
+}
